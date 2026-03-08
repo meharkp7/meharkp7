@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=7375DB&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+I'm+Mehar+Kapoor+👋;AI+Engineer+%7C+ML+Builder+🚀;ECE+%2B+Artificial+Intelligence;Let's+Build+Cool+Things!+✨">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=7375DB&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+I'm+Mehar+Kapoor+👋;AI+Engineer+%7C+ML+Builder+🚀;ECE+%2B+Artificial+Intelligence;Exploring+Ideas+Through+Code+✨">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="800">
 
@@ -25,9 +25,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284126-5a6e7f7a-0e13-4df3-9b55-2f2cbe3a3d2a.gif" width="250"/>
 
 • BTech **Electronics & Communication Engineering + AI**
-• Interested in **Machine Learning systems & intelligent applications**
-• I enjoy building **AI solutions from scratch**
-• Exploring **ML systems, DSA and applied AI**
+• Curious about **Machine Learning systems & intelligent applications**
+• I enjoy **building things from scratch**
+• Exploring **AI systems, DSA and applied ML**
 
 ---
 
@@ -73,7 +73,7 @@
 
 <br>
 
-### 🤖 Machine Learning / AI
+### 🤖 AI / ML
 
 <div align="center">
 
@@ -107,12 +107,12 @@ Machine Learning • Deep Learning • Transformers
 
 ### 🎮 Mission: RAG Insights Engine
 
-🧠 Retrieval-Augmented Generation system designed to transform raw knowledge bases into **intelligent contextual answers**.
+🧠 Retrieval-Augmented Generation system designed to transform raw knowledge bases into **context-aware insights**.
 
 **Core Features**
 
 • Semantic document retrieval
-• AI-powered contextual responses
+• AI-powered contextual answers
 • Knowledge search & insight generation
 
 <div align="center">
@@ -127,13 +127,13 @@ Machine Learning • Deep Learning • Transformers
 
 ### 🤖 Mission: Swarm2Creative
 
-Multi-agent AI experimentation platform exploring how **multiple intelligent agents collaborate to solve tasks**.
+Multi-agent AI experimentation platform exploring how **multiple agents collaborate to solve complex tasks**.
 
 **Core Features**
 
-• Agent coordination systems
-• Multi-agent collaboration
-• Decentralized task solving
+• Agent collaboration systems
+• Distributed intelligence
+• Experimental AI workflows
 
 <div align="center">
 
@@ -147,7 +147,7 @@ Multi-agent AI experimentation platform exploring how **multiple intelligent age
 
 ### 🏛 Mission: Kiosk Suvidha
 
-A **digital public service kiosk platform** enabling access to essential services through a modular kiosk interface.
+Digital kiosk platform providing **public service access through a modular interface**.
 
 **Core Features**
 
@@ -173,11 +173,11 @@ A **digital public service kiosk platform** enabling access to essential service
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharkp7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharkp7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -233,6 +233,8 @@ A **digital public service kiosk platform** enabling access to essential service
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+💻✨
+**“Curious mind. Quiet builder.
+Turning ideas into code and code into impact.”**
 
 </div>
