@@ -45,7 +45,7 @@
 
 <br><br>
 
-<img src="https://progress-bar.dev/70/?title=XP&width=600&color=7375DB"/>
+<img src="https://progress-bar.dev/70/?scale=100&title=XP&width=600&color=babaca&suffix=%"/>
 
 </div>
 
@@ -118,7 +118,7 @@ Machine Learning • Deep Learning • Transformers
 </a>
 
 <a href="https://github.com/meharkp7/swarm2creative">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm2creative&theme=tokyonight&border_radius=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </a>
 
 <br>
