@@ -33,9 +33,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+TECH+STACK+⭐">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+LEVEL+PROGRESS+⭐">
 
 </div>
+
+<div align="center">
+
+🎮 **Developer Level: AI Builder**
+
+<img src="https://img.shields.io/badge/Level-07-blueviolet?style=for-the-badge&logo=gamejolt"/>
+
+<br><br>
+
+<img src="https://progress-bar.dev/70/?title=XP&width=600&color=7375DB"/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -45,21 +59,11 @@
 
 <br>
 
-### 🧠 Languages
+### 💻 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
-
-</div>
-
-<br>
-
-### 🤖 Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,jupyter" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&perline=6"/>
 
 </div>
 
@@ -69,27 +73,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,flutter,firebase,postgres&perline=6"/>
 
 </div>
 
 <br>
 
-### 🗄️ Databases
+### 🤖 Machine Learning / AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6"/>
 
-</div>
+<br><br>
 
-<br>
-
-### 🔧 Hardware
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+Machine Learning • Deep Learning • Transformers
 
 </div>
 
@@ -99,17 +97,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman&perline=6"/>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## ⭐ PROJECTS ⭐
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+PROJECTS+⭐">
 
 </div>
 
@@ -118,17 +114,17 @@
 <div align="center">
 
 <a href="https://github.com/meharkp7/rag-insights-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights&theme=tokyonight&border_radius=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights-engine&theme=tokyonight&border_radius=10"/>
 </a>
 
 <a href="https://github.com/meharkp7/swarm2creative">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm&theme=tokyonight&border_radius=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm2creative&theme=tokyonight&border_radius=10"/>
 </a>
 
 <br>
 
 <a href="https://github.com/meharkp7/kiosk-suvidha">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk&theme=tokyonight&border_radius=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk-suvidha&theme=tokyonight&border_radius=10"/>
 </a>
 
 </div>
