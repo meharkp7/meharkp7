@@ -41,11 +41,11 @@
 
 🎮 **Developer Level: AI Builder**
 
-<img src="https://img.shields.io/badge/Level-07-blueviolet?style=for-the-badge&logo=gamejolt"/>
+<img src="https://img.shields.io/badge/LEVEL-07-blueviolet?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://progress-bar.dev/70/?scale=100&title=XP&width=600&color=babaca&suffix=%"/>
+<img src="https://progress-bar.dev/70/?scale=100&title=XP%20Progress&width=600&color=7375DB"/>
 
 </div>
 
@@ -114,17 +114,17 @@ Machine Learning • Deep Learning • Transformers
 <div align="center">
 
 <a href="https://github.com/meharkp7/rag-insights-engine">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights-engine&theme=tokyonight&border_radius=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights-engine&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/meharkp7/swarm2creative">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm2creative&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br>
 
 <a href="https://github.com/meharkp7/kiosk-suvidha">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk-suvidha&theme=tokyonight&border_radius=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk-suvidha&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -139,11 +139,11 @@ Machine Learning • Deep Learning • Transformers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meharkp7&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meharkp7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
