@@ -37,7 +37,7 @@
 
 </div>
 
-🎮 **Current Projects**
+🎮 **Active Missions**
 
 • Building **RAG Insights Engine**
 • Exploring **Multi-Agent AI Systems (Swarm)**
@@ -99,11 +99,21 @@ Machine Learning • Deep Learning • Transformers
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+PROJECTS+⭐">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+PROJECT+QUESTS+⭐">
 
 </div>
 
-<br>
+---
+
+### 🎮 Mission: RAG Insights Engine
+
+🧠 Retrieval-Augmented Generation system designed to transform raw knowledge bases into **intelligent contextual answers**.
+
+**Core Features**
+
+• Semantic document retrieval
+• AI-powered contextual responses
+• Knowledge search & insight generation
 
 <div align="center">
 
@@ -111,11 +121,41 @@ Machine Learning • Deep Learning • Transformers
 <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights-engine&theme=tokyonight&hide_border=true"/>
 </a>
 
+</div>
+
+---
+
+### 🤖 Mission: Swarm2Creative
+
+Multi-agent AI experimentation platform exploring how **multiple intelligent agents collaborate to solve tasks**.
+
+**Core Features**
+
+• Agent coordination systems
+• Multi-agent collaboration
+• Decentralized task solving
+
+<div align="center">
+
 <a href="https://github.com/meharkp7/swarm2creative">
 <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm2creative&theme=tokyonight&hide_border=true"/>
 </a>
 
-<br>
+</div>
+
+---
+
+### 🏛 Mission: Kiosk Suvidha
+
+A **digital public service kiosk platform** enabling access to essential services through a modular kiosk interface.
+
+**Core Features**
+
+• Service department modules
+• Admin dashboard & session control
+• Public service access platform
+
+<div align="center">
 
 <a href="https://github.com/meharkp7/kiosk-suvidha">
 <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk-suvidha&theme=tokyonight&hide_border=true"/>
@@ -134,10 +174,6 @@ Machine Learning • Deep Learning • Transformers
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meharkp7&theme=tokyonight&hide_border=true"/>
 
 <br>
 
