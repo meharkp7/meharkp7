@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7375DB&height=200&section=header&text=Mehar%20Kapoor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Builder%20%7C%20ECE%20%2B%20AI&descAlignY=60&descAlign=50" width="100%"/>
 
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=600&color=7375DB&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+I'm+Mehar+Kapoor+%F0%9F%91%8B;AI+Engineer+%7C+ML+Builder+%F0%9F%9A%80;ECE+%2B+Artificial+Intelligence;Exploring+Ideas+Through+Code+%E2%9C%A8)](https://git.io/typing-svg)
 
