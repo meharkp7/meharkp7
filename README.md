@@ -33,21 +33,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+LEVEL+PROGRESS+⭐">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+CURRENT+QUESTS+⭐">
 
 </div>
 
-<div align="center">
+🎮 **Current Projects**
 
-🎮 **Developer Level: AI Builder**
-
-<img src="https://img.shields.io/badge/LEVEL-07-blueviolet?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://progress-bar.dev/70/?scale=100&title=XP%20Progress&width=600&color=7375DB"/>
-
-</div>
+• Building **RAG Insights Engine**
+• Exploring **Multi-Agent AI Systems (Swarm)**
+• Developing **Digital Public Service Kiosk Platform**
 
 ---
 
@@ -114,17 +108,17 @@ Machine Learning • Deep Learning • Transformers
 <div align="center">
 
 <a href="https://github.com/meharkp7/rag-insights-engine">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights-engine&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights-engine&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/meharkp7/swarm2creative">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm2creative&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm2creative&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br>
 
 <a href="https://github.com/meharkp7/kiosk-suvidha">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk-suvidha&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk-suvidha&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -144,6 +138,10 @@ Machine Learning • Deep Learning • Transformers
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meharkp7&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharkp7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
