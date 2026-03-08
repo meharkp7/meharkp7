@@ -27,8 +27,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-bd5c6c13-3a2f-4a48-9a48-93d9a8c94a8c.gif" width="100%"/>
-
 # ⚡ Tech Stack
 
 ### 🧠 Languages
@@ -69,8 +67,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749795-97c7a9d7-1c8c-4e47-9c58-f6a7d89f5cb9.gif" width="100%"/>
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -91,8 +87,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749843-b6db92f1-28b4-4a87-b1d3-6b6f3c1c9b1d.gif" width="100%"/>
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -106,6 +100,38 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharkp7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎮 Game Zone
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+### 🟡 Pac-Man Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=meharkp7&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -131,19 +157,9 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🧠 Current Focus
 
-```
+```id="focus01"
 Machine Learning Systems
 Algorithmic Problem Solving
 AI Applications
@@ -151,17 +167,15 @@ AI Applications
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749918-47d9e3f0-76c4-4cc8-97d2-f89cdb7c5d63.gif" width="100%"/>
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/mehar-kapoor-428802214/">
 <img src="https://img.shields.io/badge/LinkedIn-7375DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:meharkapoor7@gmail.com">
 <img src="https://img.shields.io/badge/Email-100D28?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
