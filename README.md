@@ -74,25 +74,30 @@
 </p>
 
 ---
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+PROJECTS+⭐">
+## ⭐ PROJECTS ⭐
 
 </div>
 
+<br>
+
 <div align="center">
 
-<a href="https://github.com/meharkp7/rag-insights">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights&theme=tokyonight"/>
+<a href="https://github.com/meharkp7/rag-insights-engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=rag-insights&theme=tokyonight&border_radius=10"/>
 </a>
 
-<a href="https://github.com/meharkp7/swarm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm&theme=tokyonight"/>
+<a href="https://github.com/meharkp7/swarm2creative">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=swarm&theme=tokyonight&border_radius=10"/>
 </a>
 
-<a href="https://github.com/meharkp7/kiosk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk&theme=tokyonight"/>
+<br>
+
+<a href="https://github.com/meharkp7/kiosk-suvidha">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=meharkp7&repo=kiosk&theme=tokyonight&border_radius=10"/>
 </a>
 
 </div>
