@@ -37,43 +37,74 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=500&color=7375DB&center=true&vCenter=true&width=700&height=60&lines=⭐+TECH+STACK+⭐">
+
+</div>
+
+<br>
+
 ### 🧠 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" height="48"/>
-</p>
+<div align="center">
 
-### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter" height="48"/>
-</p>
+</div>
+
+<br>
+
+### 🤖 Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,jupyter" />
+
+</div>
+
+<br>
 
 ### 🌐 Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="48"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js" />
+
+</div>
+
+<br>
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="48"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+</div>
+
+<br>
 
 ### 🔧 Hardware
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+</div>
+
+<br>
 
 ### 🧰 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" height="48"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
