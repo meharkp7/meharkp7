@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mehar%20Kapoor%20%E2%9C%A6&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20ML%20%2B%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=16&animation=fadeIn&color=gradient" width="100%"/>
+<img src="./assets/mehar-banner.svg" width="100%" alt="Mehar Kapoor — AI, ML and Intelligent Systems"/>
 
 <br>
 
