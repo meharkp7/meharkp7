@@ -1,97 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7D5,35:E8D5F2,70:CDE8E3,100:BDE0FE&height=260&section=header&text=MEHAR%20KAPOOR%20♡&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20BUILDING%20WEIRD%20THINGS&descAlignY=63&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mehar%20Kapoor%20%E2%9C%A6&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20ML%20%2B%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=16&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=2600&pause=850&color=C08497&center=true&vCenter=true&width=850&height=55&lines=hi%2C+I'm+Mehar+%F0%9F%8C%B7;I+build+AI+systems+%26+intelligent+products+%E2%9C%A8;sometimes+research%2C+sometimes+chaos%2C+always+code+%F0%9F%92%BB;ECE+%2B+Artificial+Intelligence+%F0%9F%A7%A0;welcome+to+my+little+corner+of+the+internet+%E2%98%81%EF%B8%8F"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=2800&pause=900&color=E8A0BF&center=true&vCenter=true&width=800&height=50&lines=hey%2C+I'm+Mehar+%F0%9F%8C%B7;AI+%2B+ECE+student+who+likes+building+things;turning+ideas+into+systems+%E2%9C%A8;researching%2C+experimenting%2C+debugging...;welcome+to+my+little+corner+of+GitHub+%E2%99%A1"/>
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="600"/>
-
-<br><br>
-
-<a href="https://github.com/meharkp7">
-<img src="https://komarev.com/ghpvc/?username=meharkp7&label=visitors%20♡&color=C08497&style=flat-square"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=meharkp7&label=visitors%20%E2%99%A1&color=E8A0BF&style=flat-square"/>
 &nbsp;
-
-<a href="https://github.com/meharkp7?tab=followers">
-<img src="https://img.shields.io/github/followers/meharkp7?label=friends&style=flat-square&color=E8A0BF"/>
-</a>
-
+<img src="https://img.shields.io/github/followers/meharkp7?label=friends%20%E2%99%A1&style=flat-square&color=CDB4DB"/>
 &nbsp;
-
-<a href="https://github.com/meharkp7?tab=repositories">
-<img src="https://img.shields.io/github/stars/meharkp7?label=stars&style=flat-square&color=CDB4DB"/>
-</a>
+<img src="https://img.shields.io/github/stars/meharkp7?label=stars%20%E2%9C%A6&style=flat-square&color=BDE0FE"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FCE8F1&height=2" width="70%"/>
+<sub>🌷 currently building &nbsp;•&nbsp; ☕ powered by coffee &nbsp;•&nbsp; 🧠 permanently curious</sub>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-## `✿` hello, internet
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=2300&pause=700&color=C08497&center=true&vCenter=true&width=700&height=40&lines=student+%E2%86%92+builder+%E2%86%92+researcher+%E2%86%92+professional+overthinker" />
+## `♡` a little about me
 
 </div>
 
 <table>
 <tr>
+<td width="62%" valign="top">
 
-<td width="58%" valign="top">
+### hi, I'm Mehar! 🌷
 
-### 🌷 a little about me
+I'm a **B.Tech Electronics & Communication Engineering + Artificial Intelligence** student interested in building intelligent systems that connect **AI with real-world problems**.
 
-I'm a **B.Tech Electronics & Communication Engineering + Artificial Intelligence** student who enjoys building at the intersection of:
+I enjoy going beyond just training a model — I like building the **system around it**.
 
-**AI × intelligent systems × real-world problems**
+That has led me into:
 
-I like projects where the interesting part isn't just *“which model should I use?”* but:
-
-> **How do we actually turn this into a system that works?**
-
-So my repositories tend to wander through **computer vision, reinforcement learning, multi-agent systems, geospatial intelligence, cybersecurity, LLMs, backend systems and the occasional questionable experiment.**
+`Artificial Intelligence` · `Machine Learning`  
+`Computer Vision` · `GeoAI`  
+`Reinforcement Learning` · `Multi-Agent Systems`  
+`LLMs` · `Backend Engineering`
 
 <br>
 
 **currently exploring**
 
-`LLMs` · `RAG` · `Agents` · `Computer Vision`  
-`GeoAI` · `RL` · `DSA` · `Intelligent Systems`
+🧠 LLMs & RAG  
+🤖 Agentic AI  
+🌍 Geospatial Intelligence  
+🎯 Reinforcement Learning  
+🧩 DSA & Systems
 
 </td>
 
-<td width="42%" align="center">
+<td width="38%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284126-5a6e7f7a-0e13-4df3-9b55-2f2cbe3a3d2a.gif" width="250"/>
+<br>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210"/>
 
 <br><br>
 
 ```text
 idea
  ↓
-prototype
+experiment
  ↓
-why doesn't this work
+why is this broken
  ↓
 debug
  ↓
-oh wait...
+oh...
  ↓
-✨ it works ✨
+✨ works ✨
 ```
 
 </td>
-
 </tr>
 </table>
 
@@ -111,7 +99,7 @@ oh wait...
 
 <div align="center">
 
-## `✦` the things currently living in my brain
+## `✦` currently in my universe
 
 <br>
 
@@ -121,58 +109,45 @@ oh wait...
 <td align="center" width="20%">
 
 ### 🛰️
+**TerrainGraph**
 
-**TERRAINGRAPH**
-
-terrain intelligence  
-computer vision  
-geospatial graphs
+<sub>GeoAI · Vision · Graphs</sub>
 
 </td>
 
 <td align="center" width="20%">
 
 ### ⚖️
+**Equilibria**
 
-**EQUILIBRIA**
-
-ethical RL  
-recommendation systems  
-human well-being
+<sub>RL · Attention Economy</sub>
 
 </td>
 
 <td align="center" width="20%">
 
 ### 🕵🏻
-
 **AEGIS**
 
-evidence graphs  
-entity resolution  
-threat intelligence
+<sub>Evidence · Attribution · Graphs</sub>
 
 </td>
 
 <td align="center" width="20%">
 
 ### 🐝
+**Swarm2Creative**
 
-**SWARM**
-
-multi-agent AI  
-art × music × architecture
+<sub>Agents · Art · Music</sub>
 
 </td>
 
 <td align="center" width="20%">
 
 ### 🚦
+**Quanta**
 
-**QUANTA**
-
-dynamic routing  
-QPSO × SUMO × optimization
+<sub>Routing · QPSO · SUMO</sub>
 
 </td>
 
@@ -181,7 +156,7 @@ QPSO × SUMO × optimization
 
 <br>
 
-`🟢 building` &nbsp;&nbsp; `🌱 learning` &nbsp;&nbsp; `☕ surviving on caffeine`
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2400&pause=800&color=CDB4DB&center=true&vCenter=true&width=700&height=35&lines=building+things+that+make+me+say+%22wait...+this+actually+works%22+%E2%9C%A8"/>
 
 </div>
 
@@ -189,9 +164,9 @@ QPSO × SUMO × optimization
 
 <div align="center">
 
-# `♡` featured projects
+# `✿` things I've built
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=2400&pause=700&color=C08497&center=true&vCenter=true&width=720&height=40&lines=the+projects+I+keep+coming+back+to+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=17&duration=2600&pause=900&color=E8A0BF&center=true&vCenter=true&width=700&height=35&lines=not+just+models+%E2%80%94+complete+little+systems+%E2%9C%A8"/>
 
 </div>
 
@@ -202,51 +177,65 @@ QPSO × SUMO × optimization
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ## 🛰️ TerrainGraph.io
 
-### `understanding terrain through AI`
+`GeoAI × Computer Vision`
 
-A geospatial intelligence system combining **terrain graphs, computer vision and segmentation** to turn imagery into structured terrain information.
+</div>
 
-The repository includes the segmentation/training pipeline, terrain-graph processing, API/backend components and a frontend.
+> **Making terrain data understandable to machines.**
+
+A geospatial AI system built around **segmentation, terrain-graph processing and spatial data**, with a frontend and pipeline outputs.
+
+**what's inside**
+
+`PyTorch` `Segmentation`  
+`Terrain Graphs` `GeoAI` `Raster Data`
 
 <br>
 
-**stack**
-
-`Python` `PyTorch` `Segmentation`  
-`GeoAI` `Raster Data` `Graph Systems`
-
-<br>
+<div align="center">
 
 <a href="https://github.com/meharkp7/TerrainGraph.io">
-<img src="https://img.shields.io/badge/↗%20VIEW%20REPO-C08497?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20TERRAINGRAPH-E8A0BF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
+
+<div align="center">
 
 ## ⚖️ Equilibria
 
-### `when engagement meets ethics`
+`Reinforcement Learning × Ethics`
 
-An **Attention Economy Environment** built as a multi-objective reinforcement-learning benchmark.
+</div>
 
-Agents control content recommendations while balancing **engagement, retention, trust, satisfaction, fatigue, boredom and addiction risk**.
+> **What if recommendation systems had to care about the user?**
+
+An **Attention Economy Environment** where an agent learns to balance engagement with user well-being.
+
+The environment tracks **fatigue, trust, satisfaction, boredom and addiction risk**, with heuristic and PPO policies.
+
+**what's inside**
+
+`PPO` `RL` `FastAPI`  
+`React` `Docker` `Gym-style Environment`
 
 <br>
 
-**stack**
-
-`Reinforcement Learning` `PPO`  
-`FastAPI` `React` `Docker`
-
-<br>
+<div align="center">
 
 <a href="https://github.com/meharkp7/Equilibria">
-<img src="https://img.shields.io/badge/↗%20VIEW%20REPO-E8A0BF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20EQUILIBRIA-CDB4DB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
@@ -255,119 +244,79 @@ Agents control content recommendations while balancing **engagement, retention, 
 <tr>
 
 <td width="50%" valign="top">
+
+<div align="center">
 
 ## 🕵🏻 AEGIS
 
-### `evidence before conclusions`
+`Threat Intelligence × Evidence Graphs`
 
-An **Attribution & Evidence Graph Intelligence System** for investigating evolving threat personas across heterogeneous, time-dependent evidence.
+</div>
 
-It brings together **provenance-aware evidence, temporal graphs, entity resolution, behavioral signals, infrastructure/financial relationships, hypotheses and analyst workflows**.
+> **Evidence first. Attribution second.**
+
+An intelligence platform for connecting fragmented threat evidence through **provenance, entity resolution, temporal graphs, infrastructure correlation and persona linkage**.
+
+It also includes an evidence-grounded analyst copilot and analyst console.
+
+**what's inside**
+
+`FastAPI` `PostgreSQL`  
+`Entity Resolution` `Temporal Graphs`  
+`Evidence Ledger` `Attribution`
 
 <br>
 
-**stack**
-
-`Python` `FastAPI` `PostgreSQL`  
-`Graph Intelligence` `NLP` `Entity Resolution`
-
-<br>
+<div align="center">
 
 <a href="https://github.com/meharkp7/DarkWeb_SIH26151">
-<img src="https://img.shields.io/badge/↗%20LIVE%20PROJECT-CDB4DB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20AEGIS-BDE0FE?style=for-the-badge&logo=github&logoColor=17202A"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
+
+<div align="center">
 
 ## 🐝 Swarm2Creative
 
-### `one AI is cool. a swarm is cooler.`
+`Multi-Agent Creative Intelligence`
 
-A multimodal creative system where swarm intelligence drives **art, architecture and music**, with optional figurative image generation through ComfyUI / SDXL.
+</div>
 
-<br>
+> **What happens when AI agents create together?**
 
-Multiple creative engines communicate through a FastAPI backend with WebSocket support and a React + Vite frontend.
+A multimodal creative system where swarm intelligence drives **art, architecture and music**, with optional figurative image generation.
 
-<br>
+**what's inside**
 
-**stack**
-
-`Multi-Agent AI` `FastAPI`  
-`React` `WebSockets` `ComfyUI`
+`Multi-Agent AI` `LLMs`  
+`FastAPI` `WebSockets` `React`
 
 <br>
+
+<div align="center">
 
 <a href="https://github.com/meharkp7/Swarm2Creative">
-<img src="https://img.shields.io/badge/↗%20VIEW%20REPO-BDE0FE?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20SWARM-BDE0FE?style=for-the-badge&logo=github&logoColor=17202A"/>
 </a>
+
+</div>
 
 </td>
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚦 Quanta
-
-### `when the road changes, the route adapts`
-
-An adaptive vehicle-routing platform for **SIH26137**, using QPSO to plan routes on weighted road graphs and validating them independently.
-
-The system includes benchmarking, scenario simulation and **SUMO execution**, with optional HERE integration for live traffic data.
-
-<br>
-
-**stack**
-
-`QPSO` `Graph Algorithms` `SUMO`  
-`Optimization` `Python` `HERE API`
-
-<br>
-
-<a href="https://github.com/meharkp7/Quanta-SIH26137">
-<img src="https://img.shields.io/badge/↗%20VIEW%20REPO-A8DADC?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 NexaCore
-
-### `an AI assistant that actually remembers`
-
-A cloud-ready **AI onboarding assistant** powered by a Groq-backed conversational agent and Hindsight Cloud memory.
-
-It combines semantic memory, hierarchical team-context resolution, memory writeback and operational actions for **tickets, reminders and blocker logging**.
-
-<br>
-
-**stack**
-
-`LLMs` `Groq` `Hindsight`  
-`FastAPI` `React` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/meharkp7/nexacore">
-<img src="https://img.shields.io/badge/↗%20VIEW%20REPO-FFB7D5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
 </table>
 
 ---
 
 <div align="center">
 
-## `🌷` more things i've built
+## `🌱` more things i've built
 
 </div>
 
@@ -379,37 +328,52 @@ It combines semantic memory, hierarchical team-context resolution, memory writeb
 
 <td width="33%" align="center">
 
-### 🏛️ Kiosk Suvidha
+### 🚦 Quanta
 
-A digital public-service kiosk platform with a **React + TypeScript frontend, backend services and Electron support**.
+<sub>
+Dynamic vehicle routing<br>
+QPSO × SUMO × optimisation
+</sub>
 
-<a href="https://github.com/meharkp7/kiosk-suvidha">
-<img src="https://img.shields.io/badge/explore-C08497?style=flat-square&logo=github&logoColor=white"/>
+<br><br>
+
+<a href="https://github.com/meharkp7/Quanta-SIH26137">
+<img src="https://img.shields.io/badge/VIEW-C08497?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="33%" align="center">
 
-### 🧩 Systems & Experiments
+### 🧠 NexaCore
 
-From AI pipelines to backend systems, I like building the infrastructure **around** the model too.
+<sub>
+AI onboarding assistant<br>
+Groq × Hindsight memory
+</sub>
 
-`APIs` `Databases` `Docker` `Cloud`
+<br><br>
+
+<a href="https://github.com/meharkp7/nexacore">
+<img src="https://img.shields.io/badge/VIEW-E8A0BF?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="33%" align="center">
 
-### 🌱 always another one
+### 🏛️ Kiosk Suvidha
 
-There are always a few experiments hiding somewhere between
+<sub>
+Digital public services<br>
+React × TypeScript × Electron
+</sub>
 
-`idea/`
+<br><br>
 
-and
-
-`production/`
+<a href="https://github.com/meharkp7/kiosk-suvidha">
+<img src="https://img.shields.io/badge/VIEW-CDB4DB?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -417,13 +381,19 @@ and
 
 </table>
 
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2700&pause=900&color=C08497&center=true&vCenter=true&width=700&height=35&lines=and+yes%2C+there+are+always+three+more+projects+in+my+head+%F0%9F%98%AD"/>
+
+</div>
+
 ---
 
 <div align="center">
 
 # `✿` my tech garden
-
-</div>
 
 <br>
 
@@ -435,6 +405,8 @@ and
 
 ### 💻 languages
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=light"/>
 
 </td>
@@ -443,18 +415,23 @@ and
 
 ### 🧠 AI / ML
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
-
 <br>
 
-`Transformers` `RAG`  
-`RL` `Agents` `CV`
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
+
+<br><br>
+
+`Transformers`  
+`RAG` · `RL` · `Agents`  
+`Computer Vision`
 
 </td>
 
 <td align="center" width="25%">
 
 ### ⚙️ engineering
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker,git,github&theme=light"/>
 
@@ -463,6 +440,8 @@ and
 <td align="center" width="25%">
 
 ### 🌍 spatial
+
+<br>
 
 `GeoPandas`
 
@@ -482,13 +461,11 @@ and
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=yolo&logoColor=white"/>
 
 </div>
 
@@ -496,11 +473,7 @@ and
 
 <div align="center">
 
-## `✦` how my projects usually evolve
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=IDEA%20%E2%86%92%20EXPERIMENT%20%E2%86%92%20SYSTEM%20%E2%86%92%20CHAOS%20%E2%86%92%20SHIP&fontSize=25&fontColor=C08497&animation=twinkling"/>
+## `✦` how my projects usually happen
 
 <br>
 
@@ -508,27 +481,67 @@ and
 
 <tr>
 
-<td align="center">💭<br><b>IDEA</b><br><sub>“wait... what if?”</sub></td>
+<td align="center" width="20%">
 
-<td>→</td>
+### 💭
+**IDEA**
 
-<td align="center">🧪<br><b>EXPERIMENT</b><br><sub>make it work</sub></td>
+<sub>
+“wait...  
+what if?”
+</sub>
 
-<td>→</td>
+</td>
 
-<td align="center">🧠<br><b>SYSTEM</b><br><sub>make it useful</sub></td>
+<td align="center" width="5%">→</td>
 
-<td>→</td>
+<td align="center" width="20%">
 
-<td align="center">🔥<br><b>CHAOS</b><br><sub>debug everything</sub></td>
+### 🧪
+**EXPERIMENT**
 
-<td>→</td>
+<sub>
+make a tiny  
+prototype
+</sub>
 
-<td align="center">✨<br><b>SHIP</b><br><sub>pretend it was easy</sub></td>
+</td>
+
+<td align="center" width="5%">→</td>
+
+<td align="center" width="20%">
+
+### 🫠
+**CHAOS**
+
+<sub>
+why does  
+nothing work
+</sub>
+
+</td>
+
+<td align="center" width="5%">→</td>
+
+<td align="center" width="20%">
+
+### ✨
+**SHIP**
+
+<sub>
+oh wait...
+it works ♡
+</sub>
+
+</td>
 
 </tr>
 
 </table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=2800&pause=800&color=C08497&center=true&vCenter=true&width=700&height=35&lines=research+%E2%86%92+prototype+%E2%86%92+debug+%E2%86%92+something+cool;repeat+until+it+becomes+a+real+project+%E2%9C%A8"/>
 
 </div>
 
@@ -540,13 +553,13 @@ and
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=C08497&icon_color=E8A0BF&text_color=6B6270&count_private=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=meharkp7&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=C08497&icon_color=E8A0BF&text_color=6B6270&count_private=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=meharkp7&hide_border=true&background=FFF8FC&ring=C08497&fire=E8A0BF&currStreakLabel=C08497&sideLabels=6B6270&currStreakNum=6B6270&sideNums=6B6270&dates=A89AA4"/>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=meharkp7&hide_border=true&background=FFF8FC&ring=C08497&fire=E8A0BF&currStreakLabel=C08497&sideLabels=6B6270&currStreakNum=6B6270&sideNums=6B6270&dates=A89AA4"/>
 
 <br><br>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharkp7&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=C08497&text_color=6B6270"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharkp7&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=C08497&text_color=6B6270"/>
 
 <br><br>
 
@@ -564,9 +577,9 @@ and
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="850"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=3000&pause=1000&color=C08497&center=true&vCenter=true&width=650&height=35&lines=one+commit+at+a+time+%F0%9F%8C%B1;feeding+the+green+squares+%E2%9C%A8;yes%2C+I+do+judge+my+day+by+my+contribution+graph+%F0%9F%98%AD"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&duration=3000&pause=1000&color=C08497&center=true&vCenter=true&width=650&height=35&lines=one+commit+at+a+time+%F0%9F%8C%B1;feeding+the+green+squares+%E2%9C%A8;slowly+turning+ideas+into+repositories+%F0%9F%8C%B7"/>
 
 </div>
 
@@ -578,7 +591,7 @@ and
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=2600&pause=900&color=C08497&center=true&vCenter=true&width=700&height=40&lines=got+an+interesting+idea%3F;need+someone+to+turn+the+chaos+into+code%3F;come+say+hi+%F0%9F%8C%B7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=2600&pause=900&color=C08497&center=true&vCenter=true&width=700&height=40&lines=got+an+interesting+idea%3F;need+someone+to+turn+chaos+into+code%3F;come+say+hi+%F0%9F%8C%B7"/>
 
 <br><br>
 
@@ -586,9 +599,13 @@ and
 <img src="https://img.shields.io/badge/🌷%20EXPLORE%20MY%20REPOS-C08497?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/mehar-kapoor-428802214/">
 <img src="https://img.shields.io/badge/💌%20LINKEDIN-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:meharkapoor7@gmail.com">
 <img src="https://img.shields.io/badge/☕%20SAY%20HI-CDB4DB?style=for-the-badge&logo=gmail&logoColor=white"/>
